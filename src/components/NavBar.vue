@@ -25,7 +25,7 @@
 <script>
 export default{
     name:"NavbarComponents", //navbar-components
-}
+};
 </script>
 
 <style scoped>

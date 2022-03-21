@@ -3,6 +3,7 @@
 <div>
  <NavbarComponents />
  <ProdutoFormComponent />
+ <!--<img src="./assets/logo.png" class=""/> -->
  </div>
 </template>
 

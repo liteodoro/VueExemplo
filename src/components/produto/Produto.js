@@ -8,7 +8,7 @@ export default class Produto {
             this.foto1 = "",
             this.foto2 = "",
             this.foto3 = ""
-    };
+    }
 
     //Create Read Update Delete (CRUD)
     //Adicionar produto ao armazenamento
