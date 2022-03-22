@@ -55,7 +55,7 @@
 import Produto from "./Produto";
 import ProdutoListComponent from "./ProdutoList.vue";
 
-let produto = new produto();
+let produto = new Produto();
 let produtos = [];
 
 export default {

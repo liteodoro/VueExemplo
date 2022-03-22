@@ -44,7 +44,7 @@ export default {
    name:"ProdutoListcomponent",
    data(){
        return{
-           produto: produto.getall(),
+           produtos: produto.getAll(),
            produto,
        };
    },
